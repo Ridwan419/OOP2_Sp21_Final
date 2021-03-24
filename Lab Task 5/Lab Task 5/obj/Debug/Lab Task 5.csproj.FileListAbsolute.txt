@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\Lab Task 5\Lab Task 5\bin\Debug\Lab Task 5.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\Lab Task 5\Lab Task 5\obj\Debug\Lab Task 5.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\Lab Task 5\Lab Task 5\bin\Debug\Lab Task 5.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\Lab Task 5\Lab Task 5\bin\Debug\Lab Task 5.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\Lab Task 5\Lab Task 5\obj\Debug\Lab Task 5.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\Lab Task 5\Lab Task 5\obj\Debug\Lab Task 5.pdb
