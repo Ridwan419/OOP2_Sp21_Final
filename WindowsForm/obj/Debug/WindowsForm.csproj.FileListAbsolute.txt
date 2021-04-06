@@ -1,0 +1,15 @@
+H:\Aiub files\C#\Final\WindowsForm\bin\Debug\WindowsForm.exe.config
+H:\Aiub files\C#\Final\WindowsForm\bin\Debug\WindowsForm.exe
+H:\Aiub files\C#\Final\WindowsForm\bin\Debug\WindowsForm.pdb
+H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.csprojAssemblyReference.cache
+H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.exe
+H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.pdb
+H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.Form2.resources
+H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.Employee.resources
+C:\Users\ASUS\Downloads\Compressed\WebForm-master\bin\Debug\WindowsForm.exe.config
+C:\Users\ASUS\Downloads\Compressed\WebForm-master\obj\Debug\WindowsForm.exe
+C:\Users\ASUS\Downloads\Compressed\WebForm-master\obj\Debug\WindowsForm.pdb
