@@ -13,3 +13,6 @@ H:\Aiub files\C#\Final\WindowsForm\obj\Debug\WindowsForm.Employee.resources
 C:\Users\ASUS\Downloads\Compressed\WebForm-master\bin\Debug\WindowsForm.exe.config
 C:\Users\ASUS\Downloads\Compressed\WebForm-master\obj\Debug\WindowsForm.exe
 C:\Users\ASUS\Downloads\Compressed\WebForm-master\obj\Debug\WindowsForm.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\WindowsForm\obj\Debug\WindowsForm.pdb

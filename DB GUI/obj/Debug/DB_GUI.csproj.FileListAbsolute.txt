@@ -1,0 +1,19 @@
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\bin\Debug\DB_GUI.exe.config
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\bin\Debug\DB_GUI.exe
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\bin\Debug\DB_GUI.pdb
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\obj\Debug\DB_GUI.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\obj\Debug\DB_GUI.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\obj\Debug\DB_GUI.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\obj\Debug\DB_GUI.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\obj\Debug\DB_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\obj\Debug\DB_GUI.exe
+C:\Users\Asus\OneDrive\Desktop\OOP2\Final ALL CODE\DB_GUI\obj\Debug\DB_GUI.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\DB GUI\bin\Debug\DB_GUI.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\DB GUI\obj\Debug\DB_GUI.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\DB GUI\obj\Debug\DB_GUI.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\DB GUI\bin\Debug\DB_GUI.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\DB GUI\bin\Debug\DB_GUI.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\DB GUI\obj\Debug\DB_GUI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\DB GUI\obj\Debug\DB_GUI.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\DB GUI\obj\Debug\DB_GUI.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\OOP2 (M) 8-2-21\Final\DB GUI\obj\Debug\DB_GUI.csproj.GenerateResource.Cache
