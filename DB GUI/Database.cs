@@ -11,7 +11,7 @@ namespace DB_GUI
     {
         public static SqlConnection ConnectDB()
         {
-            string connString = @"Server =LAPTOP-D1FAH94M\SQLEXPRESS; Database =demo; Integrated Security = true;";
+            string connString = @"Server=DESKTOP-DGBB7FB\SQLEXPRESS;Database=demo;Integrated Security=true;";
             SqlConnection conn = new SqlConnection(connString);
             return conn;
         }

@@ -76,6 +76,7 @@ namespace DB_GUI
             this.tbCName.Name = "tbCName";
             this.tbCName.Size = new System.Drawing.Size(208, 39);
             this.tbCName.TabIndex = 2;
+            this.tbCName.TextChanged += new System.EventHandler(this.tbCName_TextChanged);
             // 
             // tbCCode
             // 

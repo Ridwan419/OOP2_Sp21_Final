@@ -177,6 +177,11 @@ namespace DB_GUI
             var courses = GetAllCourses();
             dtCourses.DataSource = courses;
         }
+
+        private void tbCName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
     
 }
